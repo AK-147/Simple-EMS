@@ -37,7 +37,7 @@
     It may be that some components are outdated as this project is quite only and was created on an older version of the NetBeans GUI builder.
     Along with that, this project was done with a hard deadline in mind and so, most of the code structure is unorganized with very little
     comments explaining the code. This is due to the fact that the only deliverable was that the system worked overall. Thus, taking into
-    account the deadline, the cleanliness of code was the last priority amongst my partner and I.
+    account the deadline, the cleanliness of code was the last priority.
   </p>
   <h2></h2>
   <h3>Enjoy</h3>
