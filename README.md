@@ -28,13 +28,13 @@
   <h2>:arrow_down: Installation</h2>
   <p>
     To use the program, it is best to use the NetBeans IDE for optimal results. Simply opening or copy and pasting the core files from the
-    <strong>src/main/java</strong> folder should be sufficient in running the application. Launch the <strong>MainJFrame.java</strong> file
+    <strong>src/main/java</strong> folder should be sufficient to run the application. Launch the <strong>MainJFrame.java</strong> file
     as the driver class, and the rest should work accordingly.
   </p>
   
   <h2>:warning: Disclaimers</h2>
   <p>
-    It may be that some components are outdated as this project is quite only and was created on an older version of the NetBeans GUI builder.
+    It may be that some components are outdated as this project is quite old and was created on an earlier version of the NetBeans GUI builder.
     Along with that, this project was done with a hard deadline in mind and so, most of the code structure is unorganized with very little
     comments explaining the code. This is due to the fact that the only deliverable was that the system worked overall and taking into
     account the deadline, the cleanliness of code was the last priority.
